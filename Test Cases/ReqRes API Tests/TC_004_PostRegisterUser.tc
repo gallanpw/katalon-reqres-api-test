@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_PostRegisterUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0144ea28-0ff4-4dd5-8727-58d4f29f30fe</testCaseGuid>
+</TestCaseEntity>

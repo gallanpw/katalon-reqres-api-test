@@ -1,0 +1,22 @@
+# System/os files
+.DS_Store
+Thumbs.db
+
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
